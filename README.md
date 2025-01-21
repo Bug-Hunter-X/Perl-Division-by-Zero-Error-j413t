@@ -1,0 +1,3 @@
+This repository contains a simple Perl script that demonstrates a division by zero error. The `bug.pl` file contains the erroneous code, while `bugSolution.pl` shows how to handle the error gracefully.
+
+The division by zero error is a common programming mistake that can lead to unexpected crashes or incorrect results.  The solution involves adding error handling to check for a zero divisor before performing the division.
